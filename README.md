@@ -25,3 +25,5 @@ except TranslationError as e:
 In this example, the `translate` function from the PyOpenTranslate library is employed to translate the text "Hello, how are you?" into French. If the translation process encounters an error, a `TranslationError` is raised and handled gracefully.
 
 PyOpenTranslate simplifies the integration of text translation into your Python projects, enabling the creation of multilingual applications, enhancing user experiences, and facilitating communication across language barriers.
+
+Translations are done via [IranianVacuums API](https://telegra.ph/iranianvacuumscom-Free-API-12-05)
