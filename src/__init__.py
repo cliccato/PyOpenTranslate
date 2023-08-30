@@ -1,0 +1,1 @@
+from .PyOpenTranslate import translate, TranslationError
